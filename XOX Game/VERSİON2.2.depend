@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1609956637 source:c:\users\pc\desktop\vers›on2.2\main.c
+	<stdio.h>
+	"function.h"
+	"function.c"
+
+1609956637 c:\users\pc\desktop\vers›on2.2\function.h
+
+1609960828 c:\users\pc\desktop\vers›on2.2\function.c
+
